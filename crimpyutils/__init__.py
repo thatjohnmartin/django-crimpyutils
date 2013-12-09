@@ -1,0 +1,5 @@
+__version_info__ = ('0', '1', '0', 'alpha', '0')
+__version__ = '.'.join(__version_info__)
+__author__ = 'John Martin'
+__license__ = 'MIT'
+__copyright__ = 'Copyright 2013 John Martin'

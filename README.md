@@ -1,4 +1,4 @@
 django-crimpyutils
 ==================
 
-A random collection of utils for Django apps.
+A random collection of somewhat useful utils for Django apps.
