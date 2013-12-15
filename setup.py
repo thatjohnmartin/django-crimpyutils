@@ -9,6 +9,6 @@ setup(
     packages=find_packages(),
     url='https://github.com/johnmartin78/crimpyutils',
     license='MIT',
-    install_requires=['Django>=1.6', 'jsonfield>=0.9'],
+    install_requires=['Django>=1.6', 'jsonfield>=0.9', 'Jinja2>=2.6', 'simplejson>=2.6.1'],
     long_description=open('README.md').read(),
 )

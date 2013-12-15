@@ -1,2 +1,4 @@
 Django>=1.6
 jsonfield>=0.9
+Jinja2==2.6
+simplejson==2.6.1
