@@ -102,6 +102,7 @@ class Loader(BaseLoader):
 
         # add custom filters
         self.env.filters['pluralize'] = pluralize
+        self.env.filters['json_dumps'] = json_dumps
         self.env.filters.update(self.more_filters())
 
     def more_globals(self):
